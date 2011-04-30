@@ -17,7 +17,7 @@ Linux/Mac OS X via commandline & Make
 
 1. Type `make` from the tictactoee/ directory  
         $ make
-2. Then run the tictactoe
+2. Then run the tictactoe  
         $ ./tictactoe
 
 RULES
